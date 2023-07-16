@@ -1,0 +1,314 @@
+[
+  {
+    "name": "Business Card - Dr Pedro Assunção",
+    "image": "./assets/img/projetos/pedro-assuncao.png",
+    "description": "Projeto utiliza o framework react.js para criar um Business Card com os links principais relacionados às redes sociais, portfólios, produtos, mentorias entre outros.",
+    "link": "https://pedroassuncao-contatos.vercel.app/",
+    "repository": "https://github.com/francovinicius/pedroassuncao-contatos",
+    "language": "React"
+  },
+  {
+    "name": "Business Card - Cantor Ricardinho",
+    "image": "./assets/img/projetos/ricardinho-card.png",
+    "description": "Projeto utiliza o framework react.js para criar um Business Card com os links principais relacionados às redes sociais, portfólios, produtos, mentorias entre outros.",
+    "link": "https://ricardinho-contatos.vercel.app/",
+    "repository": "https://github.com/francovinicius/ricardinho-contatos",
+    "language": "React"
+  },
+  {
+    "name": "Meu Business Card",
+    "image": "./assets/img/projetos/contatos-vini.png",
+    "description": "Projeto utiliza o framework react.js para criar um Business Card com os links principais relacionados às redes sociais, portfólios, produtos, mentorias entre outros.",
+    "link": "https://viniciusduarte-contatos.vercel.app/",
+    "repository": "https://github.com/francovinicius/viniciusduarte_contatos",
+    "language": "React"
+  },
+  {
+    "name": "Mini Blog (SPA)",
+    "image": "./assets/img/projetos/SPA-Aplication.png",
+    "description": "Projeto utiliza o framework react.js e a biblioteca react-router-dom para criar uma Single Page Application.",
+    "link": "https://viniciusduarte-blog.vercel.app/",
+    "repository": "https://github.com/francovinicius/blog-react",
+    "language": "React"
+  },
+  {
+    "name": "Devs & Dragons",
+    "image": "./assets/img/projetos/devs-e-dragons.png",
+    "description": "Projeto lúdico, simulando um mini RPG, tem por finalidade trabalhar com programação orientada a objetos.",
+    "link": "https://devs-and-dragons.vercel.app/",
+    "repository": "https://github.com/francovinicius/devs-and-dragons",
+    "language": "JavaScript"
+  },
+  {
+    "name": "Fit Club",
+    "image": "./assets/img/projetos/academia.png",
+    "description": "Projeto desktop, Foi criado uma ladding page para uma academia.",
+    "link": "https://academy-fitclub.vercel.app/",
+    "repository": "https://github.com/francovinicius/academy-fitclub",
+    "language": "React"
+  },
+  {
+    "name": "Portfólio 3",
+    "image": "./assets/img/projetos/portfolio-2023.png",
+    "description": "Projeto criado com auxílio do framework React.js e Bootstrap, tem por finalidade a apresentação de projetos criados por mim.",
+    "link": "https://port-test-reactjs.vercel.app/",
+    "repository": "https://github.com/francovinicius/port-test-reactjs",
+    "language": "React"
+  },
+  {
+    "name": "Alura Space",
+    "image": "./assets/img/projetos/alura-space.png",
+    "description": "Projeto criado usando o framework react.js, o mesmo consiste em trabalhar na criação de uma galeria de fotos com arquivos estáticos.",
+    "link": "https://alura-space-eight-dun.vercel.app/",
+    "repository": "https://github.com/francovinicius/galeria-de-fotos-estatico",
+    "language": "React"
+  },
+  {
+    "name": "Selecionador de Agentes - Valorant (mobile Version)",
+    "image": "./assets/img/projetos/valorant-selecter.png",
+    "description": "Projeto criado usando o framework react.js, uma forma lúdica de trabalhar o react router.",
+    "link": "https://seletor-de-agentes-valorant.vercel.app/",
+    "repository": "https://github.com/francovinicius/seletor-de-agentes-valorant",
+    "language": "React"
+  },
+  {
+    "name": "Business Card - Priscila Cruz",
+    "image": "./assets/img/projetos/priscila-cruz.png",
+    "description": "Projeto utiliza o framework react.js para criar um Business Card com os links principais relacionado as redes sociais, portifólios, produtos mentorias entre outros.",
+    "link": "https://priscila-cruz.vercel.app/",
+    "repository": "https://github.com/francovinicius/priscila-cruz",
+    "language": "React"
+  },
+  {
+    "name": "Business Card - Nutricionista Rodrigo Marinho",
+    "image": "./assets/img/projetos/rmarinho-contatos.png",
+    "description": "Projeto utiliza o framework react.js para criar um Business Card com os links principais relacionados às redes sociais, portfólios, produtos, mentorias, entre outros.",
+    "link": "https://rmarinho-contatos.vercel.app/",
+    "repository": "https://github.com/francovinicius/rmarinho-contatos",
+    "language": "React"
+  },
+  {
+    "name": "Business Card - Caio Moreira",
+    "image": "./assets/img/projetos/caio-moreira-contatos.png",
+    "description": "Projeto utiliza o framework react.js para criar um Business Card com os links principais relacionados às redes sociais, portfólios, produtos, mentorias, entre outros.",
+    "link": "https://caio-moreira-contatos.vercel.app/",
+    "repository": "https://github.com/francovinicius/caio-momeira",
+    "language": "React"
+  },
+  {
+    "name": "CRUD",
+    "image": "./assets/img/projetos/crud.png",
+    "description": "CRUD (acrônimo do inglês para Create, Read, Update and Delete) são as quatro operações básicas do desenvolvimento de uma aplicação.",
+    "link": "https://cadastro-de-funcionarios-livid.vercel.app/",
+    "repository": "https://github.com/francovinicius/cadastro-de-funcionarios",
+    "language": "Não especificada"
+  },
+  {
+    "name": "Relaxer App",
+    "image": "./assets/img/projetos/relaxer-app.png",
+    "description": "Um aplicativo de respiração relaxante com um diretor visual para dizer quando inspirar, segurar e expirar.",
+    "link": "https://relax-app-rho.vercel.app/",
+    "repository": "https://github.com/francovinicius/relax-app",
+    "language": "other"
+  },
+  {
+    "name": "Rastreador de despesas",
+    "image": "./assets/img/projetos/rastreador-de-despesas.png",
+    "description": "Acompanhe as receitas e despesas. Adicione e remova itens e salve no armazenamento local.",
+    "link": "https://rastreador-de-despesas.vercel.app/",
+    "repository": "https://github.com/francovinicius/rastreador-de-despesas",
+    "language": "other"
+  },
+  {
+    "name": "Business Card - Make Fotografia",
+    "image": "./assets/img/projetos/make-contatos.png",
+    "description": "Projeto utiliza o framework react.js para criar um Business Card com os links principais relacionados às redes sociais, portfólios, produtos, mentorias, entre outros.",
+    "link": "https://make-contatos.vercel.app/",
+    "repository": "https://github.com/francovinicius/make-contatos",
+    "language": "React"
+  },
+  {
+    "name": "Speed Typer",
+    "image": "./assets/img/projetos/speed-typer.png",
+    "description": "Jogo para vencer o relógio digitando palavras aleatórias.",
+    "link": "https://speed-typer-delta.vercel.app/",
+    "repository": "https://github.com/francovinicius/speed-typer",
+    "language": "React"
+  },
+  {
+    "name": "Cadastro de Funcionários",
+    "image": "./assets/img/projetos/cadastro de funcionários.jpg",
+    "description": "Projeto criado usando o framework react.js, o mesmo visa a criação de cartões dos funcionários separando-os por empresa.",
+    "link": "https://cadastro-de-funcionario.vercel.app/",
+    "repository": "https://github.com/francovinicius/cadastro-de-funcionario",
+    "language": "React"
+  },
+  {
+    "name": "Business Card - Psicologa Vitória Cerqueira",
+    "image": "./assets/img/projetos/vcerqueira-contatos.png",
+    "description": "Projeto utiliza o framework react.js para criar um Business Card com os links principais relacionado as redes sociais, portfólios, produtos mentorias entre outros.",
+    "link": "https://vitoriacerqueira-contatos.vercel.app/",
+    "repository": "https://github.com/francovinicius/vitoriacerqueira-contatos",
+    "language": "React"
+  },
+  {
+    "name": "Jogo da forca",
+    "image": "./assets/img/projetos/hangman.png",
+    "description": "Um aplicativo de respiração relaxante com um diretor visual para dizer quando inspirar, segurar e expirar.",
+    "link": "https://hangman-psi-kohl.vercel.app/",
+    "repository": "https://github.com/francovinicius/hangman",
+    "language": "other"
+  },
+  {
+    "name": "Dashboard",
+    "image": "./assets/img/projetos/dash-bytebank.png",
+    "description": "Projeto utiliza a biblioteca Chart.js e AwesomeAPI para construção de gráficos de conversões de moedas. O mesmo visa trabalhar com threads para requisições simultâneas.",
+    "link": "https://dashboard-bytebank.vercel.app",
+    "repository": "https://github.com/francovinicius/dashboard-bytebank",
+    "language": "other"
+  },
+  {
+    "name": "Agenda do mês",
+    "image": "./assets/img/projetos/agenda-l7.png",
+    "description": "Projeto criado para a Igreja Local 7 Church com auxilio do framework Bootstrap, tem por finalidade a visualização da escala dos músicos.",
+    "link": "https://agenda-local7.vercel.app",
+    "repository": "https://github.com/francovinicius/agenda-local7",
+    "language": "Bootstrap"
+  },
+  {
+    "name": "Buscador de CEP",
+    "image": "./assets/img/projetos/buscador-de-cep.png",
+    "description": "Projeto criado usando o framework react.js, para funcionalidade do projeto consumi uma API que me possibilitasse consultar Códigos de Endereçamento Postal (CEP) do Brasil.",
+    "link": "https://buscador-de-cep-sigma.vercel.app/",
+    "repository": "https://github.com/francovinicius/buscador-de-cep",
+    "language": "React"
+  },
+  {
+    "name": "Intranet 1.0v",
+    "image": "./assets/img/projetos/intranet-s.png",
+    "description": "Projeto criado para empresa Sarton Monitorament com auxilio do framework Bootstrap, tem por finalidade a criação de uma intranet para a informação dos seus funcionarios.",
+    "link": "https://intranet-topaz.vercel.app/",
+    "repository": "https://github.com/francovinicius/intranet",
+    "language": "Bootstrap"
+  },
+  {
+    "name": "Lading Page",
+    "image": "./assets/img/projetos/lading-page.png",
+    "description": "Projeto criado com auxilio do framework Bootstrap, tem por finalidade a apresentação de uma Lading Page para uma empresa de Design.",
+    "link": "https://lading-page-kohl.vercel.app/",
+    "repository": "https://github.com/francovinicius/Lading-page",
+    "language": "Bootstrap"
+  },
+  {
+    "name": "Portfólio 2",
+    "image": "./assets/img/projetos/portfolio-2023.png",
+    "description": "Projeto criado com auxilio do framework Bootstrap, tem por finalidade a apresentação de projetos criados por mim.",
+    "link": "https://portfolio-2023-swart-pi.vercel.app/",
+    "repository": "https://github.com/francovinicius/portfolio-2023",
+    "language": "Bootstrap"
+  },
+  {
+    "name": "NFT-Alien",
+    "image": "./assets/img/projetos/nft-alien.jpg",
+    "description": "Projeto criado apenas com CSS3 e HTML5, visa a responsividade utilizando mobile first.",
+    "link": "https://nft-alien.vercel.app/",
+    "repository": "https://github.com/francovinicius/NFT-Alien",
+    "language": "other"
+  },
+  {
+    "name": "Acerte o Número",
+    "image": "./assets/img/projetos/acerte-um-numero.png",
+    "description": "Um jogo criado para interagir com o reconhecimento de voz (Web Speech API). Obs.: Navegador recomendado Google Chrome.",
+    "link": "https://numero-secreto-kohl.vercel.app/",
+    "repository": "https://github.com/francovinicius/numero-secreto",
+    "language": "other"
+  },
+  {
+    "name": "To do list",
+    "image": "./assets/img/projetos/to-do-list.png",
+    "description": "Lista de tarefas, uma forma de organizar as atividades que não podem ser esquecidas, e que não estão inseridas na nossa rotina.",
+    "link": "https://to-do-list-tau-opal.vercel.app/",
+    "repository": "https://github.com/francovinicius/to-do-list",
+    "language": "other"
+  },
+  {
+    "name": "Cadastro de Usuário",
+    "image": "./assets/img/projetos/cadastro-de-usuario.png",
+    "description": "Projeto interativo criado para aperfeiçoar as minhas habilidades relacionadas a validação utilizando a language de programação JavaScript.",
+    "link": "https://validacao-cadastro.vercel.app/",
+    "repository": "https://github.com/francovinicius/validacao-cadastro.",
+    "language": "other"
+  },
+  {
+    "name": "Portfólio",
+    "image": "./assets/img/projetos/portfólio.jpg",
+    "description": "Projeto criado com auxilio do framework Bootstrap, tem por finalidade a apresentação de projetos criados por mim.",
+    "link": "https://portfolio-nine-psi-30.vercel.app/",
+    "repository": "https://github.com/francovinicius/portfolio",
+    "language": "Bootstrap"
+  },
+  {
+    "name": "Form para Email",
+    "image": "./assets/img/projetos/envio-de-formulario-email.png",
+    "description": "Projeto criado com auxilio do framework Bootstrap e da API formsubmit, consiste no consumo da API para enviar as respostas captadas no form para um e-mail.",
+    "link": "https://envio-email-por-form.vercel.app/",
+    "repository": "https://github.com/francovinicius/envio-email-por-form",
+    "language": "Bootstrap"
+  },
+  {
+    "name": "Robotron 2000",
+    "image": "./assets/img/projetos/robotron.png",
+    "description": "Projeto interativo criado para aperfeiçoar as minhas habilidades em JavaScript manipulando o dom. (Projeto apenas para displays maiores ou iguais a 1024px).",
+    "link": "https://robotron-2000-pearl.vercel.app/",
+    "repository": "https://github.com/francovinicius/robotron-2000",
+    "language": "other"
+  },
+  {
+    "name": "Calculador de IMC",
+    "image": "./assets/img/projetos/calculador-imc.png",
+    "description": "Projeto interativo criado para aperfeiçoar as minhas habilidades em JavaScript manipulando o dom. Neste projeto utilizei o JavaScript para calcular o IMC do participante e dizer o grau de obesidade.",
+    "link": "https://calculador-imc-virid.vercel.app/",
+    "repository": "https://github.com/francovinicius/calculador-imc",
+    "language": "other"
+  },
+  {
+    "name": "Lading Page - Lanchonete",
+    "image": "./assets/img/projetos/lanchonete.png",
+    "description": "Lading Page para uma campanha relacionada ao lançamento de uma Lanchonete (Projeto responsivo).",
+    "link": "https://hamburgeria-kappa.vercel.app/",
+    "repository": "https://github.com/francovinicius/hamburgeria",
+    "language": "other"
+  },
+  {
+    "name": "Lading Page - Iphone 13",
+    "image": "./assets/img/projetos/iphne13.png",
+    "description": "Lading Page para uma campanha relacionada ao lançamento do iPhone 13 (Projeto apenas para displays de 1440px +).",
+    "link": "https://iphone-rose.vercel.app/",
+    "repository": "https://github.com/francovinicius/iphone",
+    "language": "other"
+  },
+  {
+    "name": "Dark Linkedin",
+    "image": "./assets/img/projetos/dark-linkedin.png",
+    "description": "Um dos meus primeiros desafios realizado utilizando apenas HTML e CSS. O projeto consiste na recriação da página inicial do LinkedIn (Projeto apenas para displays de 1900px +).",
+    "link": "https://dark-linkedin.vercel.app/",
+    "repository": "https://github.com/francovinicius/dark-linkedin",
+    "language": "other"
+  },
+  {
+    "name": "Tela de Login Facebook",
+    "image": "./assets/img/projetos/tela-de-login-fb.png",
+    "description": "Um dos meus primeiros desafios realizado utilizando apenas HTML e CSS. O projeto consiste na recriação da tela de login do Facebook.",
+    "link": "https://tela-de-login-fb.vercel.app/",
+    "repository": "https://github.com/francovinicius/tela-de-login-fb",
+    "language": "other"
+  },
+  {
+    "name": "Tela de Login",
+    "image": "./assets/img/projetos/tela-de-login.png",
+    "description": "Um dos meus primeiros desafios realizado utilizando apenas HTML e CSS. O projeto consiste na criação de uma Página de Login (Projeto apenas para displays de 640px +).",
+    "link": "https://layout-tela-de-login.vercel.app/",
+    "repository": "https://github.com/francovinicius/Layout-tela-de-login",
+    "language": "other"
+  }
+]

@@ -1,0 +1,59 @@
+.card {
+    width: 18rem;
+}
+
+.projetos {
+    margin: 5rem 0;
+}
+
+.btn-al {
+    margin-top: 2rem;
+}
+
+.card-projetos {
+    width: 18rem;
+}
+
+.card-img-top-projetos {
+    width:  17.9rem;
+    height: 12rem;
+}
+
+.div-projetos {
+    margin-bottom: 10rem;
+    
+}
+
+.card-body-projetos p {
+    height: 9rem;
+}
+
+.projeto-img-linguagem {
+    
+    width: 30px;
+    opacity: .6;
+}
+
+.cards-projetos {
+
+    display: flex;
+    flex-wrap: wrap;
+    margin: 2rem 0;
+    gap: 15px;
+}
+
+.card-body-projetos p {
+    opacity: .6;
+}
+
+.meus-projetos{
+    margin-left: 1rem;
+}
+
+.highlights {
+    margin-bottom: 10rem;
+}
+
+.destaques-div {
+    margin-top: 3rem;
+}

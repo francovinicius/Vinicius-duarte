@@ -1,0 +1,48 @@
+  .texto,
+  .titulo-skill {
+    margin-left: 1rem;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+  }
+
+  .accordion {
+    width: 90%;
+    margin-left: 1rem;
+  }
+
+  .accordion-button {
+    background-color: #0D1117;
+    color: #ffffff;
+  }
+
+  .topico-skill {
+    margin-left: .5rem;
+  }
+
+  .accordion-body {
+    background-color: #0D1117;
+    color: #ffffffa2;
+  }
+
+  .titulo-skill {
+    color: #FFFFFF;
+    margin-top: -.5rem;
+    margin-left: -.5rem;
+
+
+  }
+
+  .mensagem-skill {
+    margin-top: -1.7rem;
+    margin-bottom: 1rem;
+    margin-left: .5rem;
+  }
+
+
+  @media screen and (min-width:720px) {
+
+    .accordion {
+      width: 32rem;
+    }
+
+  }
