@@ -14,3 +14,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@keyframes fadeIntext {
+  from {
+      opacity: 0;
+      
+  }
+  to {
+      opacity: 1;
+  }
+}
+
+.appJs {
+  animation: fadeIntext 2s both;
+}
+
+

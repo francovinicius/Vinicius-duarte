@@ -3,7 +3,7 @@ import './Contact.css'
 
 export default function Contact() {
     return (
-        <section id='form'>
+        <section id='form appJs'>
 
             <div className='txt-entrada'>
                 <h3 className='text-center'>Entre em contato comigo por aqui</h3>

@@ -4,7 +4,7 @@ export default function Ebooks() {
 
     return (
 
-        <section>
+        <section className='appJs'>
             <h2 className="meus-projetos tittle-ebooks">Baixe meu e-book gratuitamente</h2>
 
             <div className=" ebooks div-cards d-flex justify-content-center">

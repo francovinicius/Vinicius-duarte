@@ -3,7 +3,7 @@ import './Intranet.css'
 
 export default function Intranet() {
     return (
-        <div>
+        <div className='appJs'>
             <h4 className='titulo-hg'>Projeto: Intranet Sarton</h4>
             <div className='container-hg d-flex justify-content-center align-items-center'>
 

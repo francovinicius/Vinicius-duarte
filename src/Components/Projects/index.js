@@ -25,7 +25,7 @@ function ProjetoCard({ projeto }) {
 
 export default function Projects() {
     return (
-        <section className="projetos" id="projetos">
+        <section className="projetos appJs" id="projetos">
 
             <Highlights />
 
