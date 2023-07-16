@@ -29,7 +29,6 @@ export default function Projects() {
 
             <Highlights />
 
-
             <h3 className="meus-projetos">Meus Projetos</h3>
 
             <div className="d-flex justify-content-center cards-projetos">

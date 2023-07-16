@@ -16,11 +16,11 @@
     "language": "React"
   },
   {
-    "name": "Meu Business Card",
-    "image": "./assets/img/projetos/contatos-vini.png",
-    "description": "Projeto utiliza o framework react.js para criar um Business Card com os links principais relacionados às redes sociais, portfólios, produtos, mentorias entre outros.",
-    "link": "https://viniciusduarte-contatos.vercel.app/",
-    "repository": "https://github.com/francovinicius/viniciusduarte_contatos",
+    "name": "Business Card - Priscila Cruz",
+    "image": "./assets/img/projetos/priscila-cruz.png",
+    "description": "Projeto utiliza o framework react.js para criar um Business Card com os links principais relacionado as redes sociais, portifólios, produtos mentorias entre outros.",
+    "link": "https://priscila-cruz.vercel.app/",
+    "repository": "https://github.com/francovinicius/priscila-cruz",
     "language": "React"
   },
   {
@@ -32,12 +32,28 @@
     "language": "React"
   },
   {
+    "name": "Selecionador de Agentes - Valorant (mobile Version)",
+    "image": "./assets/img/projetos/valorant-selecter.png",
+    "description": "Projeto criado usando o framework react.js, uma forma lúdica de trabalhar o react router.",
+    "link": "https://seletor-de-agentes-valorant.vercel.app/",
+    "repository": "https://github.com/francovinicius/seletor-de-agentes-valorant",
+    "language": "React"
+  },
+  {
     "name": "Devs & Dragons",
     "image": "./assets/img/projetos/devs-e-dragons.png",
     "description": "Projeto lúdico, simulando um mini RPG, tem por finalidade trabalhar com programação orientada a objetos.",
     "link": "https://devs-and-dragons.vercel.app/",
     "repository": "https://github.com/francovinicius/devs-and-dragons",
     "language": "JavaScript"
+  },
+  {
+    "name": "Meu Business Card",
+    "image": "./assets/img/projetos/contatos-vini.png",
+    "description": "Projeto utiliza o framework react.js para criar um Business Card com os links principais relacionados às redes sociais, portfólios, produtos, mentorias entre outros.",
+    "link": "https://viniciusduarte-contatos.vercel.app/",
+    "repository": "https://github.com/francovinicius/viniciusduarte_contatos",
+    "language": "React"
   },
   {
     "name": "Fit Club",
@@ -61,22 +77,6 @@
     "description": "Projeto criado usando o framework react.js, o mesmo consiste em trabalhar na criação de uma galeria de fotos com arquivos estáticos.",
     "link": "https://alura-space-eight-dun.vercel.app/",
     "repository": "https://github.com/francovinicius/galeria-de-fotos-estatico",
-    "language": "React"
-  },
-  {
-    "name": "Selecionador de Agentes - Valorant (mobile Version)",
-    "image": "./assets/img/projetos/valorant-selecter.png",
-    "description": "Projeto criado usando o framework react.js, uma forma lúdica de trabalhar o react router.",
-    "link": "https://seletor-de-agentes-valorant.vercel.app/",
-    "repository": "https://github.com/francovinicius/seletor-de-agentes-valorant",
-    "language": "React"
-  },
-  {
-    "name": "Business Card - Priscila Cruz",
-    "image": "./assets/img/projetos/priscila-cruz.png",
-    "description": "Projeto utiliza o framework react.js para criar um Business Card com os links principais relacionado as redes sociais, portifólios, produtos mentorias entre outros.",
-    "link": "https://priscila-cruz.vercel.app/",
-    "repository": "https://github.com/francovinicius/priscila-cruz",
     "language": "React"
   },
   {
