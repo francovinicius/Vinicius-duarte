@@ -44,10 +44,10 @@ export default function Highlights() {
                     <div class="carousel-item">
                         <div className="div-hg-mobile">
                             <div className="div-hg-II d-flex flex-column justify-content-center align-items-center">
-                                <h6>Cartões de Visita</h6>
+                                <h6>Business Card</h6>
                                 <div className="d-flex flex-column">
                                     <img src="./assets/img/projetos/pedro-assuncao.png" className="img-hg" alt="Img do Site" />
-                                    <p>O projeto consiste na criação de um cartão de visita interativo utilizando o framework React.js. A ideia central é proporcionar uma forma moderna e eficiente de apresentar a solicitante, fornecendo links para os principais canais de comunicação e informações relevantes.</p>
+                                    <p>O projeto consiste na criação de um Busines Card interativo utilizando o framework React.js. A ideia central é proporcionar uma forma moderna e eficiente de apresentar a solicitante, fornecendo links para os principais canais de comunicação e informações relevantes.</p>
                                 </div>
                                 <a className="btn btn-sm btn-primary" href="/projects_cartoes-de-visita">Details
                                 </a>
@@ -59,10 +59,10 @@ export default function Highlights() {
 
                         <div className="div-hg-desktop">
                             <div className="div-hg-II d-flex flex-column justify-content-center align-items-center">
-                                <h6>Cartões de Visita</h6>
+                                <h6>Business Card</h6>
                                 <div className="d-flex">
                                     <img src="./assets/img/projetos/pedro-assuncao.png" className="img-hg" alt="Img do Site" />
-                                    <p>O projeto consiste na criação de um cartão de visita interativo utilizando o framework React.js. A ideia central é proporcionar uma forma moderna e eficiente de apresentar a solicitante, fornecendo links para os principais canais de comunicação e informações relevantes.</p>
+                                    <p>O projeto consiste na criação de um Business Card interativo utilizando o framework React.js. A ideia central é proporcionar uma forma moderna e eficiente de apresentar a solicitante, fornecendo links para os principais canais de comunicação e informações relevantes.</p>
                                 </div>
                                 <a className="btn btn-sm btn-primary" href="/projects_cartoes-de-visita">Details
                                 </a>
