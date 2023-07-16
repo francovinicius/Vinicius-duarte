@@ -1,5 +1,5 @@
 import Skills from '../Skills'
-import styles from './About.css'
+import './About.css'
 
 
 export default function About() {

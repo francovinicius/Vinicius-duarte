@@ -1,5 +1,5 @@
 import BtnBack from '../../Components/BtnBack'
-import styles from './CartoesVisita.css'
+import './CartoesVisita.css'
 
 export default function CartoesVisita() {
     return (

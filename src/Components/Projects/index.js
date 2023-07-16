@@ -1,5 +1,5 @@
 import Highlights from '../Highlights'
-import styles from './Projects.css'
+import './Projects.css'
 import projetosData from './Project.json';
 
 function ProjetoCard({ projeto }) {

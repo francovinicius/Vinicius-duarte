@@ -1,5 +1,5 @@
 import BtnBack from '../../Components/BtnBack'
-import styles from './Intranet.css'
+import './Intranet.css'
 
 export default function Intranet() {
     return (

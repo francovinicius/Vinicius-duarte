@@ -1,5 +1,5 @@
 import BtnBack from '../../Components/BtnBack'
-import styles from '../Intranet/Intranet.css'
+import '../Intranet/Intranet.css'
 
 export default function AcerteNumero() {
     return (

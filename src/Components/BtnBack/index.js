@@ -1,4 +1,4 @@
-import styles from "./BtnBack.css"
+import "./BtnBack.css"
 
 export default function BtnBack() {
 

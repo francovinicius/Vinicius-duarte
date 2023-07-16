@@ -1,4 +1,4 @@
-import styles from './Ebook.css'
+import './Ebook.css'
 export default function Ebooks() {
 
 

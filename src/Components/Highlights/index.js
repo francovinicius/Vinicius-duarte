@@ -1,4 +1,4 @@
-import styles from "./Highlights.css"
+import "./Highlights.css"
 
 export default function Highlights() {
     return (

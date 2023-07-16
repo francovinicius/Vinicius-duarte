@@ -1,4 +1,4 @@
-import styles from './Skills.css'
+import './Skills.css'
 
 export default function Skills() {
     return (

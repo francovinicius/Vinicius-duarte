@@ -1,5 +1,5 @@
 import Links from '../Links'
-import styles from './Contact.css'
+import './Contact.css'
 
 export default function Contact() {
     return (

@@ -1,4 +1,4 @@
-import styles from './Links.css'
+import './Links.css'
 
 export default function Links() {
     return (
