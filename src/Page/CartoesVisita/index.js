@@ -15,7 +15,7 @@ export default function CartoesVisita() {
                     <h6>Links de alguns exemplos</h6>
                     <div className='links-hg d-flex'>
                     <a href="https://pedroassuncao-contatos.vercel.app/" target="_blank" className='btn btn-sm btn-hg'>Dr Pedro Assunção</a>
-                        <a href="https://viniciusduarte-contatos.vercel.app/" target="_blank" className='btn  btn-sm btn-hg'>Desenvolvedor Vinicius Duarte</a>
+                        <a href="https://ricardinho-contatos.vercel.app/" target="_blank" className='btn  btn-sm btn-hg'>Youtuber e cantor Ricardinho</a>
                         <a href="https://priscila-cruz.vercel.app/" target="_blank" className='btn btn-sm btn-hg'>Pastora e Cantora Priscila Cruz</a>
                     </div>
 
