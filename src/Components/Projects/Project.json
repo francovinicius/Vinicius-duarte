@@ -40,6 +40,14 @@
     "language": "React"
   },
   {
+    "name": "Intranet 2.0v",
+    "image": "./assets/img/projetos/intranet-sarton.png",
+    "description": "Projeto criado para empresa Sarton Monitorament com auxilio dos frameworks React e Bootstrap, tem por finalidade a criação de uma intranet para a informação dos seus funcionarios.",
+    "link": "https://intranet-sarton.vercel.app/",
+    "repository": "https://github.com/francovinicius/intranet-sarton",
+    "language": "Bootstrap"
+  },
+  {
     "name": "Devs & Dragons",
     "image": "./assets/img/projetos/devs-e-dragons.png",
     "description": "Projeto lúdico, simulando um mini RPG, tem por finalidade trabalhar com programação orientada a objetos.",
