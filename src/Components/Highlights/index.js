@@ -80,7 +80,7 @@ export default function Highlights() {
                                     <img src="./assets/img/projetos/acerte-um-numero.png" className="img-hg" alt="Img do Site" />
                                     <p>O projeto é um jogo interativo desenvolvido utilizando HTML, CSS e JavaScript, com a integração da API de Reconhecimento de Voz (Web Speech API). O objetivo do jogo é adivinhar um número escolhido aleatoriamente entre 1 e 1000, utilizando comandos de voz para fazer as tentativas.</p>
                                 </div>
-                                <a className="btn btn-sm btn-primary" href="/projects_intranet">Details
+                                <a className="btn btn-sm btn-primary" href="/projects_acerte-numero">Details
                                 </a>
                             </div>
                             <div>
@@ -95,7 +95,7 @@ export default function Highlights() {
                                     <img src="./assets/img/projetos/acerte-um-numero.png" className="img-hg" alt="Img do Site" />
                                     <p>O projeto é um jogo interativo desenvolvido utilizando HTML, CSS e JavaScript, com a integração da API de Reconhecimento de Voz (Web Speech API). O objetivo do jogo é adivinhar um número escolhido aleatoriamente entre 1 e 1000, utilizando comandos de voz para fazer as tentativas.</p>
                                 </div>
-                                <a className="btn btn-sm btn-primary" href="/projects_intranet">Details
+                                <a className="btn btn-sm btn-primary" href="/projects_acerte-numero">Details
                                 </a>
                             </div>
                             <div>

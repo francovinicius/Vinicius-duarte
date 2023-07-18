@@ -4,7 +4,7 @@ import '../Intranet/Intranet.css'
 export default function AcerteNumero() {
     return (
         <div className='appJs'>
-            <h4 className='titulo-hg'>Cartões de visita</h4>
+            <h4 className='titulo-hg'>Jogo Acerte o Número</h4>
             <div className='container-hg d-flex justify-content-center align-items-center'>
 
                 <a href="https://viniciusduarte-blog.vercel.app/" target="_blank" className=''>
