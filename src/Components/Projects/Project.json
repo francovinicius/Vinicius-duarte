@@ -48,6 +48,14 @@
     "language": "Bootstrap"
   },
   {
+    "name": "MovieLand - Buscador de Filmes",
+    "image": "./assets/img/projetos/movieland.png",
+    "description": "Projeto utiliza o framework react.js com o auxilio da API OMDb API. Simula um buscador de filmes, onde os usuários podem pesquisar por títulos de filmes e obter informações sobre eles.",
+    "link": "https://movieland-virid.vercel.app/",
+    "repository": "https://github.com/francovinicius/movieland",
+    "language": "React"
+  },
+  {
     "name": "Devs & Dragons",
     "image": "./assets/img/projetos/devs-e-dragons.png",
     "description": "Projeto lúdico, simulando um mini RPG, tem por finalidade trabalhar com programação orientada a objetos.",
