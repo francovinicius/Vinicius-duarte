@@ -85,7 +85,7 @@
 
     .foto-mobile {
 
-        margin-top: -15rem;
+        margin-top: -18rem;
         margin-left: -.5rem;
         width: 30rem;
         height: 32rem;
@@ -96,8 +96,12 @@
         flex-wrap: wrap;
         gap: 4px;
         width: 35rem;
-        margin-top: -14rem;
+        margin-top: -10rem;
     
+    }
+
+    .foto-banner {
+        margin-top: -5rem;
     }
 
 }
