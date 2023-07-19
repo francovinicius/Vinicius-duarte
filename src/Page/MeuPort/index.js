@@ -4,10 +4,9 @@ import './MeuPort.css'
 export default function MeuPort() {
     return (
         <div className='appJs'>
-            <h4 className='titulo-hg'>Meu Portfólio</h4>
             <div className='container-hg d-flex justify-content-center align-items-center'>
 
-                <img src="./assets/img/projetos/portfolio-2023.png" className="img-carta-v"
+                <img src="./assets/img/pages/Meu-port.svg" className="img-fluid titulo-hg"
                     alt="Mão Segurando um Celular" />
 
                 <div className='descricao-hg'>
