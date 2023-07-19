@@ -21,6 +21,7 @@ export default function MeuPort() {
                     <p><strong>Sobre Mim: </strong>Nesta seção, compartilho informações detalhadas sobre minha formação acadêmica, experiências profissionais e habilidades técnicas. Além disso, descrevo minha paixão pela área de desenvolvimento web e meu compromisso em entregar soluções de alta qualidade.</p>
                     <p><strong>Projetos: </strong>A seção de projetos destaca alguns dos trabalhos realizados por Vinicius Duarte. Cada projeto é apresentado com uma breve descrição, capturas de tela e links para acessá-los. Isso permite que os visitantes conheçam as habilidades e competências de Vinicius através dos projetos que ele realizou.</p>
                     <p><strong>Contato: </strong>Na seção de contato, Vinicius disponibiliza informações para que os visitantes possam entrar em contato com ele. É fornecido um formulário de contato que permite que as pessoas enviem mensagens diretamente para ele. Além disso, Vinicius também compartilha seus perfis nas redes sociais para facilitar a interação e conexão.</p>
+                    <p><strong>Ebook: </strong>Nesta seção, Vinicius disponibiliza um ebook gratuito sobre um tópico relevante em desenvolvimento web. Os visitantes podem baixar o ebook fornecendo seu endereço de e-mail. Isso permite que Vinicius compartilhe conhecimentos e se conecte com potenciais clientes e seguidores.</p>
 
                 </div>
             </div>
