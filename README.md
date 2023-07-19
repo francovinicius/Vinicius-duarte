@@ -1,3 +1,5 @@
+![Meu Portfólio](https://github.com/francovinicius/Vinicius-duarte/blob/main/public/assets/img/pages/Meu-port.svg)
+
 # Projeto - Portfólio de Vinicius Duarte
 
 Este projeto consiste em um site de portfólio desenvolvido por Vinicius Duarte. O portfólio pode ser acessado através do link [https://viniciusduarte.vercel.app/](https://viniciusduarte.vercel.app/).
