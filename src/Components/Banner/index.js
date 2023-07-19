@@ -14,7 +14,7 @@ export default function Banner() {
 
                     <a className="navgation" aria-current="page" href="/">Sobre / Skills</a>
                     <a className="navgation" aria-current="page" href="/contact">Contatos</a>
-                    <a className="navgation" aria-current="page" href="/projects">Projetos / Depoimentos</a>
+                    <a className="navgation" aria-current="page" href="/projects">Projetos</a>
                     <a className="navgation" aria-current="page" href="/ebook">Download Ebook</a>
 
                 </div>
