@@ -9,6 +9,7 @@ import Footer from "./Components/Footer";
 import Intranet from "./Page/Intranet";
 import CartoesVisita from "./Page/CartoesVisita";
 import AcerteNumero from "./Page/AcerteNumero";
+import MeuPort from "./Page/MeuPort";
 
 
 function App() {
@@ -28,6 +29,7 @@ function App() {
     <Route path="/projects_intranet" element={<Intranet />} />
     <Route path="/projects_cartoes-de-visita" element={<CartoesVisita />} />
     <Route path="/projects_acerte-numero" element={<AcerteNumero />} />
+    <Route path="/meu_portfolio" element={<MeuPort />} />
 
   </Routes>
 

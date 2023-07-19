@@ -44,10 +44,41 @@ export default function Highlights() {
                     <div class="carousel-item">
                         <div className="div-hg-mobile">
                             <div className="div-hg-II d-flex flex-column justify-content-center align-items-center">
+                                <h6>Meu Portfólio</h6>
+                                <div className="d-flex flex-column">
+                                    <img src="./assets/img/projetos/portfolio-2023.png" className="img-hg" alt="Img do Site" />
+                                    <p>Este projeto consiste na criação de um portfólio desenvolvido por Vinicius Duarte, tem por finalidade a apresentação pessoal e profissional.</p>
+                                </div>
+                                <a className="btn btn-sm btn-primary" href="/meu_portfolio">Details
+                                </a>
+                            </div>
+                            <div>
+
+                            </div>
+                        </div>
+
+                        <div className="div-hg-desktop">
+                            <div className="div-hg-II d-flex flex-column justify-content-center align-items-center">
+                                <h6>Meu Portfólio</h6>
+                                <div className="d-flex">
+                                    <img src="./assets/img/projetos/portfolio-2023.png" className="img-hg" alt="Img do Site" />
+                                    <p>O projeto consiste na criação de um Business Card interativo utilizando o framework React.js. A ideia central é proporcionar uma forma moderna e eficiente de apresentar a solicitante, fornecendo links para os principais canais de comunicação e informações relevantes.</p>
+                                </div>
+                                <a className="btn btn-sm btn-primary" href="/meu_portfolio">Details
+                                </a>
+                            </div>
+                            <div>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div className="div-hg-mobile">
+                            <div className="div-hg-II d-flex flex-column justify-content-center align-items-center">
                                 <h6>Business Card</h6>
                                 <div className="d-flex flex-column">
                                     <img src="./assets/img/projetos/pedro-assuncao.png" className="img-hg" alt="Img do Site" />
-                                    <p>O projeto consiste na criação de um Busines Card interativo utilizando o framework React.js. A ideia central é proporcionar uma forma moderna e eficiente de apresentar a solicitante, fornecendo links para os principais canais de comunicação e informações relevantes.</p>
+                                    <p>Este projeto consiste em um site de portfólio desenvolvido por Vinicius Duarte. O portfólio pode ser acessado através do link</p>
                                 </div>
                                 <a className="btn btn-sm btn-primary" href="/projects_cartoes-de-visita">Details
                                 </a>
