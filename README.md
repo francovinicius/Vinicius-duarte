@@ -17,21 +17,21 @@ O portfólio de Vinicius Duarte é uma página web que apresenta suas habilidade
 
 O site possui as seguintes seções:
 
-### 1. Página Inicial
-
-A página inicial apresenta uma introdução breve e atraente sobre Vinicius Duarte, destacando suas principais habilidades e áreas de expertise.
-
-### 2. Sobre Mim
+### 1. Sobre Mim
 
 Nesta seção, Vinicius Duarte compartilha informações detalhadas sobre sua formação acadêmica, experiências profissionais e habilidades técnicas. Além disso, ele descreve sua paixão pela área de desenvolvimento web e seu compromisso em entregar soluções de alta qualidade.
 
-### 3. Projetos
+### 2. Projetos
 
 A seção de projetos destaca alguns dos trabalhos realizados por Vinicius Duarte. Cada projeto é apresentado com uma breve descrição, capturas de tela e links para acessá-los. Isso permite que os visitantes conheçam as habilidades e competências de Vinicius através dos projetos que ele realizou.
 
-### 4. Contato
+### 3. Contato
 
 Na seção de contato, Vinicius disponibiliza informações para que os visitantes possam entrar em contato com ele. É fornecido um formulário de contato que permite que as pessoas enviem mensagens diretamente para ele. Além disso, Vinicius também compartilha seus perfis nas redes sociais para facilitar a interação e conexão.
+
+### 4. Ebook
+
+Nesta seção, Vinicius disponibiliza um ebook gratuito sobre um tópico relevante em desenvolvimento web. Os visitantes podem baixar o ebook fornecendo seu endereço de e-mail. Isso permite que Vinicius compartilhe conhecimentos e se conecte com potenciais clientes e seguidores.
 
 ## Como executar o projeto localmente
 
