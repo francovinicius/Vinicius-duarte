@@ -41,7 +41,7 @@
   },
   {
     "name": "Intranet 2.0v",
-    "image": "./assets/img/projetos/intranet-sarton.png",
+    "image": "./assets/img/projetos/intranet-s.png",
     "description": "Projeto criado para empresa Sarton Monitorament com auxilio dos frameworks React e Bootstrap, tem por finalidade a criação de uma intranet para a informação dos seus funcionarios.",
     "link": "https://intranet-sarton.vercel.app/",
     "repository": "https://github.com/francovinicius/intranet-sarton",
