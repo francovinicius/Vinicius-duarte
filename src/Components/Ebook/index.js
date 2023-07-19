@@ -13,7 +13,7 @@ export default function Ebooks() {
                     <div className="card-body">
                         <img src="./assets/img/ebook/Como-vencer-a-procrastinacao-vinicius-duarte.png" className="card-img-top" alt="..." />
                         <h5 className="card-title text-center">Como vencer a procrastinação</h5>
-                        <a href="https://chk.eduzz.com/1867535" className="download btn btn-primary">Fazer Download!</a>
+                        <a href="https://chk.eduzz.com/1867535" target='blank' className="download btn btn-primary">Fazer Download!</a>
                     </div>
                 </div>
                 
