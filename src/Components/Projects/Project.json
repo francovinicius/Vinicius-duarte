@@ -96,6 +96,22 @@
     "language": "React"
   },
   {
+    "name": "Breakout",
+    "image": "./assets/img/projetos/breakout.png",
+    "description": "Jogo onde você controla uma raquete com as setas do teclado para quicar uma bola até quebrar tijolos. Este aplicativo usa o elemento de tela HTML5 e a API.",
+    "link": "https://breakout-one.vercel.app/",
+    "repository": "https://github.com/francovinicius/breakout",
+    "language": "other"
+  },
+  {
+    "name": "New Year",
+    "image": "./assets/img/projetos/new-year.png",
+    "description": "Página de destino que faz a contagem regressiva da data atual até o próximo ano novo",
+    "link": "https://new-year-six.vercel.app/",
+    "repository": "https://github.com/francovinicius/new-year",
+    "language": "other"
+  },
+  {
     "name": "Business Card - Nutricionista Rodrigo Marinho",
     "image": "./assets/img/projetos/rmarinho-contatos.png",
     "description": "Projeto utiliza o framework react.js para criar um Business Card com os links principais relacionados às redes sociais, portfólios, produtos, mentorias, entre outros.",
