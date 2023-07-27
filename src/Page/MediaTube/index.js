@@ -1,4 +1,4 @@
-import './MediaTube.css'
+import '../Pages.css'
 import BtnBack from '../../Components/BtnBack'
 
 
