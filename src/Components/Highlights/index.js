@@ -41,6 +41,8 @@ export default function Highlights() {
                         </div>
 
                     </div>
+
+
                     <div class="carousel-item">
                         <div className="div-hg-mobile">
                             <div className="div-hg-II d-flex flex-column justify-content-center align-items-center">
@@ -62,7 +64,7 @@ export default function Highlights() {
                                 <h6>Meu Portfólio</h6>
                                 <div className="d-flex">
                                     <img src="./assets/img/projetos/portfolio-2023.png" className="img-hg" alt="Img do Site" />
-                                    <p>O projeto consiste na criação de um Business Card interativo utilizando o framework React.js. A ideia central é proporcionar uma forma moderna e eficiente de apresentar a solicitante, fornecendo links para os principais canais de comunicação e informações relevantes.</p>
+                                    <p>Este projeto consiste na criação de um portfólio desenvolvido por Vinicius Duarte, tem por finalidade a apresentação pessoal e profissional.</p>
                                 </div>
                                 <a className="btn btn-sm btn-primary" href="/meu_portfolio">Details
                                 </a>
@@ -72,6 +74,41 @@ export default function Highlights() {
                             </div>
                         </div>
                     </div>
+                    
+
+                    <div class="carousel-item">
+                        <div className="div-hg-mobile">
+                            <div className="div-hg-II d-flex flex-column justify-content-center align-items-center">
+                                <h6>MediaTube</h6>
+                                <div className="d-flex flex-column">
+                                    <img src="./assets/img/projetos/youtube-clone.png" className="img-hg" alt="Img do Site" />
+                                    <p>O MediaTube é um aplicativo web desenvolvido com ReactJS e Material UI 5 que permite aos usuários pesquisar e visualizar vídeos do YouTube através da API do YouTube do Rapid API.</p>
+                                </div>
+                                <a className="btn btn-sm btn-primary" href="/media_tube">Details
+                                </a>
+                            </div>
+                            <div>
+
+                            </div>
+                        </div>
+
+                        <div className="div-hg-desktop">
+                            <div className="div-hg-II d-flex flex-column justify-content-center align-items-center">
+                                <h6>MediaTube</h6>
+                                <div className="d-flex">
+                                    <img src="./assets/img/projetos/youtube-clone.png" className="img-hg" alt="Img do Site" />
+                                    <p>O MediaTube é um aplicativo web desenvolvido com ReactJS e Material UI 5 que permite aos usuários pesquisar e visualizar vídeos do YouTube através da API do YouTube do Rapid API.</p>
+                                </div>
+                                <a className="btn btn-sm btn-primary" href="/media_tube">Details
+                                </a>
+                            </div>
+                            <div>
+
+                            </div>
+                        </div>
+                    </div>
+
+
                     <div class="carousel-item">
                         <div className="div-hg-mobile">
                             <div className="div-hg-II d-flex flex-column justify-content-center align-items-center">
@@ -103,6 +140,8 @@ export default function Highlights() {
                             </div>
                         </div>
                     </div>
+
+
                     <div class="carousel-item">
                     <div className="div-hg-mobile">
                             <div className="div-hg-II d-flex flex-column justify-content-center align-items-center">

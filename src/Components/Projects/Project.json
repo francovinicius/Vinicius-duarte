@@ -1,5 +1,13 @@
 [
   {
+    "name": "MediaTube",
+    "image": "./assets/img/projetos/youtube-clone.png",
+    "description": "Projeto utiliza o framework react.js e uma API para criar um clone do youtube. Projeto possui várias funcionalidades como por exemplo a função de busca",
+    "link": "https://media-tube-sandy.vercel.app/",
+    "repository": "https://github.com/francovinicius/mediaTube",
+    "language": "React"
+  },
+  {
     "name": "Business Card - Dr Pedro Assunção",
     "image": "./assets/img/projetos/pedro-assuncao.png",
     "description": "Projeto utiliza o framework react.js para criar um Business Card com os links principais relacionados às redes sociais, portfólios, produtos, mentorias entre outros.",

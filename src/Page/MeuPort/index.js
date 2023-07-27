@@ -1,5 +1,4 @@
 import BtnBack from '../../Components/BtnBack'
-import './MeuPort.css'
 
 export default function MeuPort() {
     return (
