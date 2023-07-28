@@ -14,6 +14,11 @@
     width: 18rem;
 }
 
+.card-title {
+    margin-top: -.4rem;
+    margin-bottom: 1.5rem;
+}
+
 .card-img-top-projetos {
     width:  17.9rem;
     height: 12rem;
@@ -25,7 +30,7 @@
 }
 
 .card-body-projetos p {
-    height: 9rem;
+    height: 10rem;
 }
 
 .projeto-img-linguagem {
