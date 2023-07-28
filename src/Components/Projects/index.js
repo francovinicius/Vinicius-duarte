@@ -9,7 +9,7 @@ function ProjetoCard({ projeto }) {
                 <img src={projeto.image} className="card-img-top card-img-top-projetos" alt="Foto do Projeto" />
             </a>
             <div className="div-cards card-body card-body-projetos">
-                <h5 className="card-title">{projeto.name}</h5>
+                <h5 className="card-title text-center">{projeto.name}</h5>
                 <p className="card-text">{projeto.description}</p>
                 <div className="d-flex justify-content-between align-items-end">
                     <div className="btn-group btn-al">

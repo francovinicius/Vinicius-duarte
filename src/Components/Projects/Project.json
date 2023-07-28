@@ -1,6 +1,6 @@
 [
   {
-    "name": "MediaTube",
+    "name": "MediaTube - Clone do Youtube",
     "image": "./assets/img/projetos/youtube-clone.png",
     "description": "Projeto utiliza o framework react.js e uma API para criar um clone do youtube. Projeto possui várias funcionalidades como por exemplo a função de busca",
     "link": "https://media-tube-sandy.vercel.app/",
