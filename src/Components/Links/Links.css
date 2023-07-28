@@ -4,6 +4,7 @@
     width: 100%;
     text-align: center;
   }
+
   .btnnn{
     display: inline-block;
     width: 3.125rem;
@@ -17,15 +18,19 @@
     position: relative;
     border: 1px solid #fff;
   }
+
   .btnnn i{
+    padding-top: 0.1875rem;
    line-height: 2.5rem;
     font-size: 1.375rem;
     transition: 0.2s linear;
   }
+
   .btnnn:hover i{
     transform: scale(1.3);
     color: #0D1117;
   }
+
   .btnnn::before{
     content: "";
     position: absolute;
@@ -36,11 +41,13 @@
     left: -110%;
     top: 90%;
   }
+
   .btnnn:hover::before{
     animation: aaa 0.7s 1;
     top: -10%;
     left: -10%;
   }
+  
   @keyframes aaa {
     0%{
       left: -110%;
