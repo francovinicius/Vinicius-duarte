@@ -31,7 +31,7 @@ export default function Skills() {
                                 <li>
                                     <div className="d-flex flex-column">
                                         <h6 className="titulo-skill">Languages:</h6>
-                                        <span className="mensagem-skill">JavaScript.</span>
+                                        <span className="mensagem-skill">JavaScript, Kotlin.</span>
                                     </div>
                                 </li>
                                 <li>
@@ -62,7 +62,7 @@ export default function Skills() {
                                 <li>
                                     <div className="d-flex flex-column">
                                         <h6 className="titulo-skill">Integrated Development Environment:</h6>
-                                        <span className="mensagem-skill">Visual Studio Code, IntelliJ, Sublime Text.</span>
+                                        <span className="mensagem-skill">Visual Studio Code, IntelliJ, Sublime Text, Android Studio.</span>
                                     </div>
                                 </li>
                                 <li>
