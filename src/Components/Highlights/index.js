@@ -42,6 +42,37 @@ export default function Highlights() {
 
                     </div>
 
+                    <div class="carousel-item">
+                        <div className="div-hg-mobile">
+                            <div className="div-hg-II d-flex flex-column justify-content-center align-items-center">
+                                <h6>Aplicativos Android com Kotlin</h6>
+                                <div className="d-flex flex-column">
+                                    <img src="./assets/img/projetos/portfolio-2023.png" className="img-hg" alt="Img do Site" />
+                                    <p>Alguns de meus projetos Android com Kotlin</p>
+                                </div>
+                                <a className="btn btn-sm btn-primary" href="/android_projetos">Details
+                                </a>
+                            </div>
+                            <div>
+
+                            </div>
+                        </div>
+
+                        <div className="div-hg-desktop">
+                            <div className="div-hg-II d-flex flex-column justify-content-center align-items-center">
+                                <h6>Aplicativos Android com Kotlin</h6>
+                                <div className="d-flex">
+                                    <img src="./assets/img/projetos/portfolio-2023.png" className="img-hg" alt="Img do Site" />
+                                    <p>Alguns de meus projetos Android com Kotlin</p>
+                                </div>
+                                <a className="btn btn-sm btn-primary" href="/android_projetos">Details
+                                </a>
+                            </div>
+                            <div>
+
+                            </div>
+                        </div>
+                    </div>
 
                     <div class="carousel-item">
                         <div className="div-hg-mobile">

@@ -11,6 +11,7 @@ import CartoesVisita from "./Page/CartoesVisita";
 import AcerteNumero from "./Page/AcerteNumero";
 import MeuPort from "./Page/MeuPort";
 import MediaTube from "./Page/MediaTube";
+import AndroidProjetos from "./Page/AndroidProjetos";
 
 
 function App() {
@@ -32,6 +33,7 @@ function App() {
     <Route path="/projects_acerte-numero" element={<AcerteNumero />} />
     <Route path="/meu_portfolio" element={<MeuPort />} />
     <Route path="/media_tube" element={<MediaTube />} />
+    <Route path="/android_projetos" element={<AndroidProjetos />} />
 
   </Routes>
 
