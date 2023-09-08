@@ -47,7 +47,7 @@ export default function Highlights() {
                             <div className="div-hg-II d-flex flex-column justify-content-center align-items-center">
                                 <h6>Aplicativos Android com Kotlin</h6>
                                 <div className="d-flex flex-column">
-                                    <img src="./assets/img/projetos/portfolio-2023.png" className="img-hg" alt="Img do Site" />
+                                    <img src="./assets/img/projetos/mobile-projects.svg" className="img-hg" alt="Img do Site" />
                                     <p>Alguns de meus projetos Android com Kotlin</p>
                                 </div>
                                 <a className="btn btn-sm btn-primary" href="/android_projetos">Details
@@ -62,7 +62,7 @@ export default function Highlights() {
                             <div className="div-hg-II d-flex flex-column justify-content-center align-items-center">
                                 <h6>Aplicativos Android com Kotlin</h6>
                                 <div className="d-flex">
-                                    <img src="./assets/img/projetos/portfolio-2023.png" className="img-hg" alt="Img do Site" />
+                                    <img src="./assets/img/projetos/mobile-projects.svg" className="img-hg" alt="Img do Site" />
                                     <p>Alguns de meus projetos Android com Kotlin</p>
                                 </div>
                                 <a className="btn btn-sm btn-primary" href="/android_projetos">Details
