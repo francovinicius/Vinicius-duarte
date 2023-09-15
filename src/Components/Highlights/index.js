@@ -42,6 +42,7 @@ export default function Highlights() {
 
                     </div>
 
+                    {/*
                     <div class="carousel-item">
                         <div className="div-hg-mobile">
                             <div className="div-hg-II d-flex flex-column justify-content-center align-items-center">
@@ -73,6 +74,7 @@ export default function Highlights() {
                             </div>
                         </div>
                     </div>
+                    */}
 
                     <div class="carousel-item">
                         <div className="div-hg-mobile">
