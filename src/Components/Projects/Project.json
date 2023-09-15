@@ -1,5 +1,53 @@
 [
   {
+    "name": "E-Personal",
+    "image": "./assets/img/projetos/mobile/e-personal.png",
+    "description": "O E-personal App é um aplicativo desenvolvido em Kotlin, projetado para gerar treinos aleatórios para grupos musculares.",
+    "link": "https://github.com/francovinicius/E-PersonalApp",
+    "repository": "https://github.com/francovinicius/E-PersonalApp",
+    "language": "Kotlin"
+  },
+  {
+    "name": "Nu Clone",
+    "image": "./assets/img/projetos/mobile/nu-clone.png",
+    "description": "O Nu App é um projeto desenvolvido em Kotlin, com o objetivo de refazer o layout do aplicativo Nu Bank.",
+    "link": "https://github.com/francovinicius/NuCloneApp",
+    "repository": "https://github.com/francovinicius/NuCloneApp",
+    "language": "Kotlin"
+  },
+  {
+    "name": "Simple Task",
+    "image": "./assets/img/projetos/mobile/simple-task.png",
+    "description": "O Simple Task é um aplicativo desenvolvido em Kotlin, projetado para realizar a criação, recuperação e autenticação de usuários utilizando o firebase",
+    "link": "https://github.com/francovinicius/SimpleTaskApp",
+    "repository": "https://github.com/francovinicius/SimpleTaskApp",
+    "language": "Kotlin"
+  },
+  {
+    "name": "Sorteio App",
+    "image": "./assets/img/projetos/mobile/sorteio-app.png",
+    "description": "O Sorteio App é um aplicativo desenvolvido em Kotlin, projetado para gerar número aleatório.",
+    "link": "https://github.com/francovinicius/SorteioApp",
+    "repository": "https://github.com/francovinicius/SorteioApp",
+    "language": "Kotlin"
+  },
+  {
+    "name": "IMC App",
+    "image": "./assets/img/projetos/mobile/imc-app.png",
+    "description": "O Nu App é um projeto desenvolvido em Kotlin, com o objetivo de refazer o layout do aplicativo Nu Bank.",
+    "link": "https://github.com/francovinicius/IMC-App",
+    "repository": "https://github.com/francovinicius/IMC-App",
+    "language": "Kotlin"
+  },
+  {
+    "name": "Luminus App",
+    "image": "./assets/img/projetos/mobile/luminus-app.png",
+    "description": "O Luminus App é um aplicativo simples desenvolvido em Kotlin que transforma o seu dispositivo Android em uma lanterna.",
+    "link": "https://github.com/francovinicius/LuminusApp",
+    "repository": "https://github.com/francovinicius/LuminusApp",
+    "language": "Kotlin"
+  },
+  {
     "name": "MediaTube - Clone do Youtube",
     "image": "./assets/img/projetos/youtube-clone.png",
     "description": "Projeto utiliza o framework react.js e uma API para criar um clone do youtube. Projeto possui várias funcionalidades como por exemplo a função de busca",
