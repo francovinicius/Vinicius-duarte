@@ -1,7 +1,7 @@
 [
   {
     "name": "E-Personal",
-    "image": "./assets/img/projetos/mobile/e-personal.png",
+    "image": "./assets/img/projetos/mobile/e_personal.png",
     "description": "O E-personal App é um aplicativo desenvolvido em Kotlin, projetado para gerar treinos aleatórios para grupos musculares.",
     "link": "https://github.com/francovinicius/E-PersonalApp",
     "repository": "https://github.com/francovinicius/E-PersonalApp",
