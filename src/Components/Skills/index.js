@@ -25,13 +25,13 @@ export default function Skills() {
                                 <li>
                                     <div className="d-flex flex-column">
                                         <h6 className="titulo-skill">Frameworks and Libraries:</h6>
-                                        <span className="mensagem-skill">React.js, Bootstrap.</span>
+                                        <span className="mensagem-skill">Flutter, React.js, Bootstrap.</span>
                                     </div>
                                 </li>
                                 <li>
                                     <div className="d-flex flex-column">
                                         <h6 className="titulo-skill">Languages:</h6>
-                                        <span className="mensagem-skill">JavaScript, Kotlin.</span>
+                                        <span className="mensagem-skill">Dart, JavaScript, Kotlin.</span>
                                     </div>
                                 </li>
                                 <li>
