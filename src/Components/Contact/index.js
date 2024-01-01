@@ -7,7 +7,10 @@ export default function Contact() {
 
             <div className='txt-entrada'>
                 <h3 className='text-center'>Entre em contato comigo por aqui</h3>
+                <br/>
             </div>
+
+            <Links/>
 
             <form action="https://formsubmit.co/duartevini.dev@gmail.com" method="POST">
                 <div className='alinhar-div'>
@@ -27,7 +30,7 @@ export default function Contact() {
                 </div>
             </form>
 
-            <Links/>
+           
 
 
 
