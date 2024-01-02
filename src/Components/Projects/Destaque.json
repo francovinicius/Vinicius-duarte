@@ -1,0 +1,50 @@
+[
+  {
+    "name": "E-Personal",
+    "image": "./assets/img/projetos/mobile/e_personal.png",
+    "description": "O E-personal App é um aplicativo desenvolvido em Kotlin, projetado para gerar treinos aleatórios para grupos musculares.",
+    "link": "https://github.com/francovinicius/E-PersonalApp",
+    "repository": "https://github.com/francovinicius/E-PersonalApp",
+    "language": "Kotlin"
+  },
+  {
+    "name": "Business Card - Dr Pedro Assunção",
+    "image": "./assets/img/projetos/pedro-assuncao.png",
+    "description": "Projeto utiliza o framework react.js para criar um Business Card com os links principais relacionados às redes sociais, portfólios, produtos, mentorias entre outros.",
+    "link": "https://pedroassuncao-contatos.vercel.app/",
+    "repository": "https://github.com/francovinicius/pedroassuncao-contatos",
+    "language": "React"
+  },
+  {
+    "name": "Business Card - Cantor Ricardinho",
+    "image": "./assets/img/projetos/ricardinho-card.png",
+    "description": "Projeto utiliza o framework react.js para criar um Business Card com os links principais relacionados às redes sociais, portfólios, produtos, mentorias entre outros.",
+    "link": "https://ricardinho-contatos.vercel.app/",
+    "repository": "https://github.com/francovinicius/ricardinho-contatos",
+    "language": "React"
+  },
+  {
+    "name": "Intranet 2.0v",
+    "image": "./assets/img/projetos/intranet-s.png",
+    "description": "Projeto criado para empresa Sarton Monitorament com auxilio dos frameworks React e Bootstrap, tem por finalidade a criação de uma intranet para a informação dos seus funcionarios.",
+    "link": "https://intranet-sarton.vercel.app/",
+    "repository": "https://github.com/francovinicius/intranet-sarton",
+    "language": "Bootstrap"
+  },
+  {
+    "name": "Portfólio 3",
+    "image": "./assets/img/projetos/portfolio-2023.png",
+    "description": "Projeto criado com auxílio do framework React.js e Bootstrap, tem por finalidade a apresentação de projetos criados por mim.",
+    "link": "https://port-test-reactjs.vercel.app/",
+    "repository": "https://github.com/francovinicius/port-test-reactjs",
+    "language": "React"
+  },
+  {
+    "name": "CRUD",
+    "image": "./assets/img/projetos/crud.png",
+    "description": "CRUD (acrônimo do inglês para Create, Read, Update and Delete) são as quatro operações básicas do desenvolvimento de uma aplicação.",
+    "link": "https://cadastro-de-funcionarios-livid.vercel.app/",
+    "repository": "https://github.com/francovinicius/cadastro-de-funcionarios",
+    "language": "Não especificada"
+  }
+]
