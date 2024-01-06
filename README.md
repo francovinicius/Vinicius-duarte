@@ -11,6 +11,7 @@ Este projeto consiste em um site de portfólio desenvolvido por Vinicius Duarte.
 - ReactJS
 - JSON
 - React Router DOM
+- API FormSubmit
 - Vercel (para hospedagem)
 
 ## Descrição do Projeto
